@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+
+#middlesection
+{
+	width:958px;
+	height:50px;
+	background-color:black;
+	background-repeat:repeat-x;
+	float:left;
+}
+#middlesection .heading
+{
+	width:958px
+	height:24px;
+	float:left;
+	font-size:24px;
+	line-height:24px;
+	margin:9px 0px 0px 0px;
+	text-align:center;
+	color:#000;
+	font-family:"Times New Roman", Times, serif;
+	text-transform:capitalize;
+}
+#middlesection .listings
+{
+	width:933px;
+	height:61px;
+	float:left;
+	background-image:url(../images/panel_1_bg.png);
+	background-repeat:repeat-x;
+	border:1px solid #8c8c8c;
+	margin-left:10px;
+	margin-top:15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+#middlesection .listings img
+{
+	float:left;
+	margin:10px;
+}
+#middlesection .listings ul
+{
+	width:750px;
+	height:61px;
+	float:left;
+}
+#middlesection .listings ul li
+{
+	width:auto;
+	height:61px;
+	float:left;
+}
+#middlesection .listings ul li a:link, #middlesection .listings ul li a:visited, #middlesection .listings ul li a:active
+{
+	width:auto;
+	height:61px;
+	float:left;
+	line-height:60px;
+	text-align:center;
+	text-decoration:none;
+	text-transform:capitalize;
+	color:black;
+	margin:0px 20px 0px 20px;
+}
+#middlesection .listings ul li a:hover, #middlesection .listings ul li a:focus
+{
+	width:auto;
+	height:61px;
+	float:left;
+	line-height:60px;
+	text-align:center;
+	text-decoration:underline;
+	text-transform:capitalize;
+	color:black;
+	margin:0px 20px 0px 20px;	
+}
+#maincontainer
+{
+	width:100%;
+	float:left;
+	background-color:goldenrod;
+	padding-bottom:20px;
+}
+#maincontainer #leftcontainer
+{
+	width:256px;
+	height:auto;
+	float:left;
+	margin-top:36px;
+	margin-left:31px;
+}
+#maincontainer #leftcontainer h1
+{
+	width:256px;
+	font-family:"Times New Roman", Times, serif;
+	padding-bottom:15px;
+	border-bottom:1px solid #000;
+	height:30px;
+	font-size:30px;
+	font-weight:normal;
+	float:left;
+	color:#000;
+	text-transform:uppercase;
+}
+
+#maincontainer #leftcontainer .content
+{
+	width:256px;
+	height:auto;
+	float:left;
+	margin-top:8px;
+}
+
+
+/*-------------right container--------*/
+#maincontainer #rightcontainer
+{
+	width:900px;
+	height:auto;
+	float:left;
+	margin-left:31px;
+	margin-top:36px;	
+}
+#maincontainer #rightcontainer h2
+{
+	width:900px;
+	font-family:"Times New Roman", Times, serif;
+	padding-bottom:15px;
+	border-bottom:1px solid #000;
+	height:30px;
+	font-size:30px;
+	font-weight:normal;
+	float:left;
+	color:#000;
+	text-transform:uppercase;
+}
+.home_class {
+font-size:30px;font-family:Times New Roman, Times, serif;
+	padding-bottom:15px;
+	border-bottom:1px solid #000;
+	height:30px;
+	font-size:30px;
+	font-weight:normal;
+	float:left;
+	color:#000;
+	text-transform:uppercase;}
+
+#maincontainer #rightcontainer .contentbox
+{
+	width:900px;
+	height:auto;
+	float:left;
+	margin-top:16px;
+}
+#maincontainer #rightcontainer .contentbox img
+{
+	float:left;
+}
+#maincontainer #rightcontainer .contentbox h3
+{
+	width:900px;
+	height:14px;
+	font-size:14px;
+	font-weight:bold;
+	float:left;
+	color:#000;
+	margin-bottom:5px;
+}
+#maincontainer #rightcontainer .contentbox p
+{
+	width:auto;
+	height:auto;
+	font-size:13px;
+	float:left;
+	margin-right:20px;	
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.star { font-size:9px; color:black;}
+.heads {
+
+	height:24px;
+	float:left;
+	font-size:24px;
+	line-height:24px;
+	margin:9px 0px 0px 0px;
+	
+	color:#000;
+	font-family:"Times New Roman", Times, serif;
+	text-transform:capitalize;
+	}

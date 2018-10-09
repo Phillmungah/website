@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.avinoics table
+{
+	border:1px solid red;
+	font-size:11px;
+}
+.avinoics table tr, .avinoics table tr td
+{
+	text-align:center;
+	font-size:11px;
+	border:1px solid #fff;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.head
+{
+	border:1px solid #fff;
+	background-color:#333;
+	color:#fff;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	height:22px;
+	line-height:22px;
+	font-size:11px;
+	font-weight:bold;
+	white-space:nowrap;
+	padding-left:5px;
+	padding-right:5px;
+}
+.texttd
+{
+	border:1px solid #efefef;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#333;
+	text-align:left;
+	width:60px;
+	height:auto;
+	line-height:15px;
+	font-size:0.85em;
+	padding:2px;
+}
